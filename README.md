@@ -1,8 +1,8 @@
 # Feed-Reader
 # This project is for testing the code against errors using [Jasmine](http://jasmine.github.io/) 
 # we define the suites and expect the some values to be 
-# you can download all project files from https://github.com/Mohamed-Shehata1/Feed-Reader
-# open index.html file to run the project
+- you can download all project files from [Here](https://github.com/Mohamed-Shehata1/Feed-Reader)
+- open index.html file to run the project
 
 RSS Feeds
 - this suite is to ensure that all feed are defined and that in not empty
